@@ -1,0 +1,74 @@
+{
+  "test-b": {
+    "autoIdForSecurityObject": false,
+    "toDelete": [
+      "/0",
+      "/1"
+    ],
+    "servers": {
+      "0": {
+        "shortId": 123,
+        "lifetime": 300,
+        "defaultMinPeriod": 1,
+        "notifIfDisabled": true,
+        "binding": "U"
+      }
+    },
+    "security": {
+      "0": {
+        "uri": "coaps://localhost:5684",
+        "bootstrapServer": true,
+        "securityMode": "PSK",
+        "publicKeyOrId": [
+          104,
+          111,
+          108,
+          97
+        ],
+        "serverPublicKey": [],
+        "secretKey": [
+          51,
+          49,
+          51,
+          50,
+          51,
+          51
+        ],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      },
+      "1": {
+        "uri": "coaps://localhost:5686",
+        "bootstrapServer": false,
+        "securityMode": "PSK",
+        "publicKeyOrId": [
+          104,
+          111,
+          108,
+          97
+        ],
+        "serverPublicKey": [],
+        "secretKey": [
+          51,
+          49,
+          51,
+          50,
+          51,
+          51
+        ],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 123,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      }
+    },
+    "acls": {}
+  }
+}

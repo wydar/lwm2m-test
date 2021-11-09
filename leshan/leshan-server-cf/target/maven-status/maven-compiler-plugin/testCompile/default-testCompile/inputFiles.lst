@@ -1,0 +1,11 @@
+/home/wydar/Documents/leshan/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/request/CoapRequestBuilderTest.java
+/home/wydar/Documents/leshan/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/request/LwM2mResponseBuilderTest.java
+/home/wydar/Documents/leshan/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/DummyDecoder.java
+/home/wydar/Documents/leshan/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/observation/ObserveUtilTest.java
+/home/wydar/Documents/leshan/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/bootstrap/LeshanBootstrapServerTest.java
+/home/wydar/Documents/leshan/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/CaliforniumTestSupport.java
+/home/wydar/Documents/leshan/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/registration/InMemoryRegistrationStoreTest.java
+/home/wydar/Documents/leshan/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/bootstrap/LeshanBootstrapServerBuilderTest.java
+/home/wydar/Documents/leshan/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/observation/ObservationServiceTest.java
+/home/wydar/Documents/leshan/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/LeshanServerTest.java
+/home/wydar/Documents/leshan/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/LeshanServerBuilderTest.java

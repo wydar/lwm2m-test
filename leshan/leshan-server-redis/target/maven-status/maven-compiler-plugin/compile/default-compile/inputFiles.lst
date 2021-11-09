@@ -1,0 +1,10 @@
+/home/wydar/Documents/leshan/leshan-server-redis/src/main/java/org/eclipse/leshan/server/redis/RedisRegistrationStore.java
+/home/wydar/Documents/leshan/leshan-server-redis/src/main/java/org/eclipse/leshan/server/redis/serialization/RegistrationSerDes.java
+/home/wydar/Documents/leshan/leshan-server-redis/src/main/java/org/eclipse/leshan/server/redis/RedisSecurityStore.java
+/home/wydar/Documents/leshan/leshan-server-redis/src/main/java/org/eclipse/leshan/server/redis/SingleInstanceJedisLock.java
+/home/wydar/Documents/leshan/leshan-server-redis/src/main/java/org/eclipse/leshan/server/redis/JedisLock.java
+/home/wydar/Documents/leshan/leshan-server-redis/src/main/java/org/eclipse/leshan/server/redis/serialization/ObservationSerDes.java
+/home/wydar/Documents/leshan/leshan-server-redis/src/main/java/org/eclipse/leshan/server/redis/serialization/SecurityInfoSerDes.java
+/home/wydar/Documents/leshan/leshan-server-redis/src/main/java/org/eclipse/leshan/server/redis/serialization/EndpointContextSerDes.java
+/home/wydar/Documents/leshan/leshan-server-redis/src/main/java/org/eclipse/leshan/server/redis/serialization/IdentitySerDes.java
+/home/wydar/Documents/leshan/leshan-server-redis/src/main/java/org/eclipse/leshan/server/redis/RedisLock.java
